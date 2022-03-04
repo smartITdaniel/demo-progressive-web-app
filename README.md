@@ -1,4 +1,4 @@
-### <p align="center"><img width="150px" height="150px" src="https://raw.githubusercontent.com/gokulkrishh/demo-progressive-web-app/master/images/icons/android-chrome-192x192.png"></p>
+### <p align="center"><img width="150px" height="150px" src="https://raw.githubusercontent.com/gokulkrishh/SmartEnterprisePWA/master/images/icons/android-chrome-192x192.png"></p>
 
 # [Progressive Web Application](https://demopwa.surge.sh)
 
@@ -11,13 +11,13 @@
 #### `Step 1` - clone the repo
 
 ```bash
-$ git clone https://github.com/gokulkrishh/demo-progressive-web-app
+$ git clone https://github.com/smartit/SmartEnterprisePWA
 ```
 
 #### `Step 2` - cd in the repo
 
 ```bash
-$ cd demo-progressive-web-app
+$ cd SmartEnterprisePWA
 ```
 
 #### `Step 3` - install dependencies
